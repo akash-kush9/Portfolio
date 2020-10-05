@@ -1,0 +1,128 @@
+{
+  "main": {
+    "name": "Akash Kushwaha",
+    "occupation": "Systems Engineer @ Infosys",
+    "description": "Self taught Full Stack React Developer by Day ✌️✌️, Hard core gamer by Night 🎮👍",
+    "image": "akash_kushwaha.jpg",
+    "bio": "I am a gamer at heart, with a cheerful spirit, and a passion for coding. After graduating, I pursued my first job to kick off my career. I was hired as a Systems Engineer by Infosys, where I still work today. Since beginning of my career there, I have been given the opportunity to work on different technologies for the company and now I am currently working towards becoming a full stack developer.",
+    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "akash.kushwaha9.com",
+    "phone": "+91 8542-988-512",
+    "address": {
+      "street": "1158 Y Block Kidwai Nagar",
+      "city": "Kanpur",
+      "state": "UP",
+      "zip": "208011"
+    },
+    "website": "https://drive.google.com/file/d/1eonwWAaAf0XNxvHvrHihyCjUe3wn7Nig/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1eonwWAaAf0XNxvHvrHihyCjUe3wn7Nig/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/akash.kuswaha.353",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/akash2015",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/akash.kushwaha9/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/akash-kush9",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I'm a tinkerer and am always interested in playing around with new technologies, and already went through stack technologies like Django-React, MEAN & MERN but the ones that have really won me over is React Js, Node JS & MongoDB",
+    "education": [
+      {
+        "school": "CSJM UIET Kanpur",
+        "degree": "Bachelor of Technology in Computer Science & Engineering",
+        "graduated": "June 2018",
+        "description": "Graduated with FIRST Division"
+      }
+    ],
+    "work": [
+      {
+        "company": "Infosys Ltd.",
+        "title": "Systems Engineer",
+        "years": "Oct 2018 - Present",
+        "description": "Worked on different projects interacting with different people from both client and company side. Gain a lot of exposure and experience through it and always strive to become a better person & employee with each day."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "Node & Express",
+        "level": "75%"
+      },
+      {
+        "name": "Python-Django",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "WhatsApp Clone",
+        "category": "WhatsApp Clone built with ReactJs and Firebase for Real time database and web hosting",
+        "image": "whatsapp.jpg",
+        "url": "https://whatsapp-clone-14f55.web.app/"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook.jpg",
+        "url": "https://facebook-clone-60c16.web.app/"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon Clone built with ReactJS",
+        "image": "Amazon Clone.PNG",
+        "url": "https://amaz-on-clone-c4.web.app/"
+      },
+      {
+        "title": "Twitter Clone",
+        "category": "Twitter Clone built with ReactJS",
+        "image": "twitter.jpg",
+        "url": "https://twitter-clone-c8c75.web.app/"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Netflix Clone built with ReactJS",
+        "image": "netflix.jpg",
+        "url": "https://netflix-clone-648fd.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": []
+  }
+}
